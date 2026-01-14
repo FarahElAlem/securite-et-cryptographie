@@ -651,7 +651,6 @@ def main():
         elif choix == "0":
             print("\n" + "=" * 80)
             print("👋 Merci d'avoir utilisé l'analyseur!")
-            print("✅ Bon courage pour votre TP!")
             print("📚 N'oubliez pas: Ne jamais créer son propre algorithme!")
             print("=" * 80 + "\n")
             break
